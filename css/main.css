@@ -1,3 +1,18 @@
 @CHARSET "iso-8859-1";
 
 body{ padding-top: 0px; }
+.bg-image {
+	background-image: url("../images/slider1.jpg"); 
+	height: 576.6px; 
+	width: 2031px;
+}
+
+.navbar-bottom-line{ 
+	padding: 15px;
+    border-bottom: 1px solid #F5F5F5;
+}
+
+#logo {
+	padding-right: 100px !important;
+	border-right: 2px solid #F5F5F5 !important;
+}
